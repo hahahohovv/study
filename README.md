@@ -1,2 +1,2 @@
 # study
-test reository for github test
+test repository for github test
